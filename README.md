@@ -26,7 +26,6 @@ src/
 │   ├── Header.tsx          # Navigation header
 │   ├── Hero.tsx           # Hero section
 │   ├── About.tsx          # About section
-│   ├── Skills.tsx         # Technical skills
 │   ├── Experience.tsx     # Work experience
 │   ├── Resume.tsx         # Resume download
 │   ├── Blog.tsx           # Personal blog

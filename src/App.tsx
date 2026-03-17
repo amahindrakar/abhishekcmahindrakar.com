@@ -2,7 +2,6 @@ import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import About from './components/About';
-import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Resume from './components/Resume';
 import Blog from './components/Blog';
@@ -16,7 +15,6 @@ function App() {
       <main>
         <Hero />
         <About />
-        <Skills />
         <Experience />
         <Resume />
         <Blog />
