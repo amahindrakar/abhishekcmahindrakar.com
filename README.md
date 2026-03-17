@@ -60,40 +60,6 @@ src/
    npm run build
    ```
 
-## 🌐 Deployment
-
-### GitHub Pages Setup
-
-1. **Create GitHub Repository**
-   - Repository name: `abhishekcmahindrakar.com` (or your preferred name)
-   - Make sure it's public
-
-2. **Enable GitHub Pages**
-   - Go to repository Settings → Pages
-   - Source: Deploy from a branch
-   - Branch: `gh-pages`
-   - Folder: `/ (root)`
-
-3. **Add Custom Domain**
-   - In Pages settings, add your custom domain: `abhishekcmahindrakar.com`
-   - Create a `CNAME` file in the `public` folder with your domain
-
-4. **Configure DNS**
-   - Add these A records to your domain DNS:
-     ```
-     185.199.108.153
-     185.199.109.153
-     185.199.110.153
-     185.199.111.153
-     ```
-   - Or add a CNAME record pointing to `amahindrakar.github.io`
-
-5. **Deploy**
-   ```bash
-   npm run build
-   npm run deploy
-   ```
-
 ## 📝 Customization
 
 ### Adding Your Resume

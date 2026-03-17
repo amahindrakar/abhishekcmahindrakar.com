@@ -78,20 +78,12 @@ const Contact = () => {
                   <Github className="w-6 h-6" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/abhishekcmahindrakar"
+                  href="https://www.linkedin.com/in/abhishek-mahindrakar/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-blue-600 text-white rounded-lg flex items-center justify-center hover:bg-blue-700 transition-colors"
                 >
                   <Linkedin className="w-6 h-6" />
-                </a>
-                <a
-                  href="https://twitter.com/amahindrakar"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-12 h-12 bg-blue-400 text-white rounded-lg flex items-center justify-center hover:bg-blue-500 transition-colors"
-                >
-                  <Twitter className="w-6 h-6" />
                 </a>
               </div>
             </div>
