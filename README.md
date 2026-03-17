@@ -77,58 +77,13 @@ src/
 - Update social media links in components
 - Add/remove social platforms as needed
 
-## 🎨 Design System
-
-### Colors
-- Primary: Blue (#3B82F6)
-- Secondary: Indigo (#6366F1)
-- Accent: Various colors for different sections
-- Neutral: Gray scale for text and backgrounds
-
-### Typography
-- Font: Inter (system fallback)
-- Headings: Bold weights
-- Body: Regular weight
-- Code: Monospace
-
-### Spacing
-- Based on Tailwind's 8px grid system
-- Consistent padding and margins
-
-## 📱 Responsive Breakpoints
-
-- Mobile: < 768px
-- Tablet: 768px - 1024px
-- Desktop: > 1024px
-
-## 🔧 Development
-
-### Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run preview` - Preview production build
-- `npm run lint` - Run ESLint
-
-### Code Style
-
-- TypeScript for type safety
-- ESLint for code quality
-- Prettier for code formatting
-- Consistent component structure
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-While this is a personal website, suggestions and improvements are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+This is a personal website please do not request any updates or suggestions.
 
 ## 📞 Contact
 
